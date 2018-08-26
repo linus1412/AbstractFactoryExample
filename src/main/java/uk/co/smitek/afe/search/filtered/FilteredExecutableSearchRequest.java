@@ -1,7 +1,7 @@
-package uk.co.smitek.search.filtered;
+package uk.co.smitek.afe.search.filtered;
 
-import uk.co.smitek.search.ExecutableSearchRequest;
-import uk.co.smitek.search.SearchResult;
+import uk.co.smitek.afe.search.SearchResult;
+import uk.co.smitek.afe.search.ExecutableSearchRequest;
 
 import java.util.List;
 

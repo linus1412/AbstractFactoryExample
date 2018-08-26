@@ -1,7 +1,7 @@
-package uk.co.smitek.search.factory;
+package uk.co.smitek.afe.search.factory;
 
 import org.springframework.stereotype.Component;
-import uk.co.smitek.search.SearchRequest;
+import uk.co.smitek.afe.search.SearchRequest;
 
 import java.util.List;
 import java.util.Map;

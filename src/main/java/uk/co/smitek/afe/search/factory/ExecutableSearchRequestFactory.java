@@ -1,7 +1,7 @@
-package uk.co.smitek.search.factory;
+package uk.co.smitek.afe.search.factory;
 
-import uk.co.smitek.search.ExecutableSearchRequest;
-import uk.co.smitek.search.SearchRequest;
+import uk.co.smitek.afe.search.ExecutableSearchRequest;
+import uk.co.smitek.afe.search.SearchRequest;
 
 public interface ExecutableSearchRequestFactory<T extends SearchRequest> {
 

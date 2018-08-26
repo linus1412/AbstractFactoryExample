@@ -1,8 +1,8 @@
-package uk.co.smitek.search;
+package uk.co.smitek.afe.search;
 
 import org.springframework.stereotype.Service;
-import uk.co.smitek.search.factory.AbstractExecutableSearchRequestFactory;
-import uk.co.smitek.search.factory.ExecutableSearchRequestFactory;
+import uk.co.smitek.afe.search.factory.AbstractExecutableSearchRequestFactory;
+import uk.co.smitek.afe.search.factory.ExecutableSearchRequestFactory;
 
 import java.util.List;
 

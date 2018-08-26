@@ -1,8 +1,8 @@
-package uk.co.smitek.search.simple;
+package uk.co.smitek.afe.search.simple;
 
 import org.springframework.stereotype.Component;
-import uk.co.smitek.search.ExecutableSearchRequest;
-import uk.co.smitek.search.factory.ExecutableSearchRequestFactory;
+import uk.co.smitek.afe.search.ExecutableSearchRequest;
+import uk.co.smitek.afe.search.factory.ExecutableSearchRequestFactory;
 
 @Component
 public class SimpleExecutableSearchRequestFactory implements ExecutableSearchRequestFactory<SimpleSearchRequest> {

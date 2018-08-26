@@ -1,8 +1,8 @@
-package uk.co.smitek.search.filtered;
+package uk.co.smitek.afe.search.filtered;
 
 import com.google.api.services.customsearch.Customsearch;
 import org.springframework.stereotype.Service;
-import uk.co.smitek.search.google_api.ApiSearchService;
+import uk.co.smitek.afe.search.google_api.ApiSearchService;
 
 import java.io.IOException;
 

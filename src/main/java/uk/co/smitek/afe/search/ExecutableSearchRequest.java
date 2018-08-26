@@ -1,4 +1,4 @@
-package uk.co.smitek.search;
+package uk.co.smitek.afe.search;
 
 import java.util.List;
 

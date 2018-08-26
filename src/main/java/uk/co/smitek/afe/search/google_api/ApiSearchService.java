@@ -1,4 +1,4 @@
-package uk.co.smitek.search.google_api;
+package uk.co.smitek.afe.search.google_api;
 
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
 import com.google.api.client.json.jackson2.JacksonFactory;
@@ -7,8 +7,8 @@ import com.google.api.services.customsearch.CustomsearchRequestInitializer;
 import com.google.api.services.customsearch.model.Search;
 import lombok.SneakyThrows;
 import org.springframework.stereotype.Service;
-import uk.co.smitek.search.SearchRequest;
-import uk.co.smitek.search.SearchResult;
+import uk.co.smitek.afe.search.SearchRequest;
+import uk.co.smitek.afe.search.SearchResult;
 
 import java.io.IOException;
 import java.util.Collections;

@@ -1,9 +1,9 @@
-package uk.co.smitek.search;
+package uk.co.smitek.afe.search;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import uk.co.smitek.search.filtered.FilteredSearchRequest;
-import uk.co.smitek.search.simple.SimpleSearchRequest;
+import uk.co.smitek.afe.search.filtered.FilteredSearchRequest;
+import uk.co.smitek.afe.search.simple.SimpleSearchRequest;
 
 import java.util.List;
 
